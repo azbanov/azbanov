@@ -40,7 +40,7 @@
 
 I'm a **Senior Software Engineer with 13+ years of professional experience**, specializing in:
 
-- **Backend development with Elixir, Phoenix, LiveView, OTP, PHP, Python**
+- **Backend development with Elixir, Phoenix, LiveView, OTP, Python and PHP**
 - **Distributed, event-driven systems**  
 - **High-traffic, high-reliability architectures**
 - **API design, system integration and performance optimization**
