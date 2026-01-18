@@ -55,13 +55,13 @@ I am comfortable taking ownership of architecture, mentoring engineers, collabor
 ## 🏢 Professional Experience Highlights
 
 ### **Senior Software Development Engineer — Yolo Group**  
-*2024 – Present | Prague*  
+*2024 – Present | Remote*  
 - Build and maintain distributed **Elixir/Phoenix** services supporting high-volume internal operations.  
 - Designed event-driven workflows using **OTP, GenServers, Oban**.  
 - Improved system performance, data accuracy and service reliability.
 
 ### **Senior Software Engineer — Currys plc**  
-*2021 – 2024 | Prague*  
+*2021 – 2024 | Remote*  
 - Developed backend systems for one of the UK’s largest **e-commerce** platform.  
 - Improved API performance, stability and scalability.  
 - Worked closely with cross-functional teams to deliver production-ready solutions.
